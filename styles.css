@@ -3,7 +3,7 @@ body{
     display: flex;
     justify-content: center;
     height: 100vh;
-    background-color: aliceblue;
+    background-color: rgb(29, 50, 68)
 }
 
 #calculator{
@@ -20,7 +20,7 @@ body{
     font-size: 5rem;
     text-align: left;
     border: none;
-    background-color: gray;
+    background-color: rgb(41, 38, 38);
     color: white;
 }
 
@@ -43,22 +43,6 @@ button{
     cursor: pointer;
 }
 
-button:hover{
-    background-color: orange;
-}
-
-button:active{
-    background-color: red;
-}
-
 .operator-btn{
     background-color: orange;
-}
-
-.operator-btn:hover{
-    background-color: black;
-}
-
-.operator-btn:active{
-    background-color: red;
 }
