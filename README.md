@@ -25,7 +25,7 @@ The **Calculator App** is a simple, user-friendly web application designed to pe
 
 1. Clone the repository or download the project files.  
    ```bash
-   git clone https://github.com/username/calculator-app.git
+   git clone https://github.com/GriffinsNgeno/GO2COD_WD_03.git
    ```  
 
 2. Open the `index.html` file in any web browser.  
