@@ -50,3 +50,15 @@ button:hover{
 button:active{
     background-color: red;
 }
+
+.operator-btn{
+    background-color: orange;
+}
+
+.operator-btn:hover{
+    background-color: black;
+}
+
+.operator-btn:active{
+    background-color: red;
+}
